@@ -9,11 +9,13 @@
 
 ## Cartelle
 
+`
 .
 ├── presentazioni
 ├── doc: documentazione, pdf per lezioni
 ├── software: software pronti di esempio
 └── unity: unity packages e modelli, textures da importare
+`
 
 ## Programma corso
 
