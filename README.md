@@ -11,7 +11,7 @@
 
 #### Sabato
 
-9.30 - 11.00
+**9.30 - 11.00**
 
 - introduzione al capturing (trovare materiale)
 - introduzione a tool opensource come opentsps che supporta camera semplice e kinect con alcuni programmi di esempio: 
@@ -19,7 +19,7 @@
  * Sonos
  * Esempi Kinect: opentsps, video di implementazioni 
 
-11.30 - 13
+**11.30 - 13**
 
 - introduzione ai protocolli come osc e syphon
  * Syphon simple server/client
@@ -29,7 +29,7 @@
 - introduzione al tool in sviluppo "kinactor"
  * Demo kinactor
 
-14.30 - 16
+**14.30 - 16**
 
 - Introduzione a unity3d
  * installazione
@@ -40,7 +40,7 @@
  * Esplorazione interfaccia: inspector, project, hierachy, Scene, Game, Console
  * Movimento camera in editor
  
-16.30 - 18
+**16.30 - 18**
 
 - Sasuke Tuorial
  * Importare oggetti: assets workflow
@@ -50,15 +50,14 @@
 
 - Pubblicare un progetto
 
-
 #### Domenica
 
-9.30 - 11
+**9.30 - 11**
 
 - approfondimento di unity3d e le sue funzionalità (luci, oggetti, texture, timeline, programmazione, etc).
  * Components e documentazione
  * Programmazione scripting: js (iTween) e C# (C# examples) e documentazione
 
-11.30 - 18
+**11.30 - 18**
  
 - sviluppo di una applicazione pratica con l'integrazione dei vari sistemi (supporto e suggerimenti)
