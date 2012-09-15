@@ -25,7 +25,6 @@
  * Syphon simple server/client
  * altri syphon? video?
  * Osculator (alternative?) con OSCexample di OF, wiimote
- 
 - introduzione al tool in sviluppo "kinactor"
  * Demo kinactor
 
@@ -35,7 +34,6 @@
  * installazione
  * documentazione
  * asset store
-
 - Introduzione all'interfaccia (3rd person shooter)
  * Esplorazione interfaccia: inspector, project, hierachy, Scene, Game, Console
  * Movimento camera in editor
@@ -47,7 +45,6 @@
  * Creare scene
  * Prefabs & Childs 
  * Luci
-
 - Pubblicare un progetto
 
 #### Domenica
