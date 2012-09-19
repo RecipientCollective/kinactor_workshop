@@ -1,0 +1,733 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-20370.55051182587" y="-15471.33517839275" width="40741.10102365174" height="30942.670356785497"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+    </settings>
+    <object id="0_15277798" type="button" x="9.910999067116898e-13" y="-9.14861452349252e-13" r="0" s="48.967669499581426">
+      <type>invisible</type>
+      <size>
+        <w>800.9646182131122</w>
+        <h>600.8499999999999</h>
+      </size>
+    </object>
+    <object id="0" type="label" x="329.9069780837477" y="11393.611146217092" r="0" s="61.01845953763295" class="head">
+      <textfield autoSize="true">
+        <x>-258.4</x>
+        <y>-18.3</y>
+        <text><![CDATA[Motion Capture: Softwares e Librerie]]></text>
+        <w>516.85</w>
+        <h>36.65</h>
+        <annotations>r0-36 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="1" type="image" x="-9425.528284212083" y="4832.6728399885615" r="-9.036563503586972" s="9.874546092898935">
+      <source w="250" h="308">237664296.png<url>237664296.png</url>
+      </source>
+      <sourceUrl>http://www.willowgarage.com/sites/default/files/logos/opencv.250w.png</sourceUrl>
+    <resource><id>
+        237664296
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/3/c/ddf412089b859d53763a17b37684a96b7330e.png</url></resource></object>
+    <object id="8" type="button" x="-8916.08188354761" y="5943.747273514406" r="-9.277323905897676" s="9.057085743693392" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="9" type="label" x="-8904.69587419703" y="7162.320224143788" r="-9.277323905897676" s="7.966287516853021" class="strong">
+      <textfield autoSize="true">
+        <x>-187.25</x>
+        <y>-15.85</y>
+        <text><![CDATA[OPENCV: Open Source Computer Vision]]></text>
+        <w>374.5</w>
+        <h>31.7</h>
+        <annotations>r0-35 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="10" type="label" x="-8991.304513537867" y="6633.236685135526" r="-9.277323905897676" s="13.184997388710489" class="head">
+      <textfield autoSize="true">
+        <x>-177.05</x>
+        <y>-18.3</y>
+        <text><![CDATA[Open Source Computer Vision]]></text>
+        <w>354.1</w>
+        <h>36.65</h>
+        <annotations>r0-27 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="11" type="placeholder" x="-9260.038395073294" y="3840.0394452204755" r="-9.277323905897676" s="6.0380571624622625">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="2" type="button" x="-10960.650155740072" y="-2829.776134936868" r="0" s="7.0718692959286" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="3" type="label" x="-10925.298168061825" y="-4144.957485760503" r="0" s="6.220162388569671" class="body">
+      <textfield>
+        <x>-340.1</x>
+        <y>-85.1</y>
+        <text><![CDATA[OpenCV è una libreria orientata alla computer vision.
+È una libreria multipiattaforma e quindi è compilabile sotto molti sistemi operativi (Windows, Mac OS X, Linux, PSP, VCRT).
+Il linguaggio di programmazione utilizzato per sviluppare questa libreria è C++, ma può essere utilizzata con C++ così come con altri linguaggi come C e Python.]]></text>
+        <w>680.25</w>
+        <h>170.2</h>
+        <annotations>r0-54 { bullet: true; }
+r0-54 { align: left; }
+r0-54 { blockIndent: 36; }
+r54-178 { bullet: true; }
+r54-178 { align: left; }
+r54-178 { blockIndent: 36; }
+r178-338 { bullet: true; }
+r178-338 { align: left; }
+r178-338 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="4" type="labelwithplaceholder" x="-10987.272094606058" y="-2275.238893354514" r="0" s="10.294986802465345" class="head">
+      <placeholder text="Click to add text" x="-87.8" y="-18.3" align="center" width="175.65"/>
+    </object>
+    <object id="5" type="placeholder" x="-10960.893667859229" y="-4494.184061995825" r="0" s="4.714579530619068">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="6" type="youtube" x="-10946.072623318069" y="-2057.8859507922834" r="0" s="8.909441632665953" onFocus="start" onLeave="pause">
+      <source>NkWkCpYc3CA</source>
+    </object>
+    <object id="7" type="image" x="-6859.579339960134" y="-9541.063412566971" r="10.594265561452085" s="1.972650629370026">
+      <source w="300" h="300">237691520.jpe<url>237691520.jpe</url>
+      </source>
+      <sourceUrl>http://b.vimeocdn.com/ps/107/250/1072506_300.jpg</sourceUrl>
+    <resource><id>
+        237691520
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/c/f/4891c9dcdca83137a8ed2967c8eaf6ab0e572.jpe</url></resource></object>
+    <object id="12" type="button" x="-6158.607027117883" y="-8349.587170797535" r="10.594265561452085" s="4.866301183569379" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="17" type="image" x="-6209.25384881006" y="-8080.048214253733" r="10.59426556145209" s="3.229306711967993">
+      <source w="640" h="483">237714480.jpe<url>237714480.jpe</url>
+      </source>
+      <sourceUrl>http://b.vimeocdn.com/ts/210/160/21016089_640.jpg</sourceUrl>
+    <resource><id>
+        237714480
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/0/1/86f96695c24728918995cb69920ad0435819a.jpe</url></resource></object>
+    <object id="13" type="label" x="-5786.917589236055" y="-9175.300958082746" r="10.59426556145209" s="4.28022384561276" class="strong">
+      <textfield>
+        <x>-176.5</x>
+        <y>-29.7</y>
+        <text><![CDATA[openFrameworks is an open source C++ toolkit for creative coding.]]></text>
+        <w>353.05</w>
+        <h>59.4</h>
+        <annotations>r0-65 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="14" type="label" x="-5692.180470497973" y="-9537.894526556061" r="10.594265561452085" s="7.084195757196874" class="head">
+      <textfield autoSize="true">
+        <x>-122.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[OPENFRAMEWORKS]]></text>
+        <w>245.2</w>
+        <h>36.65</h>
+        <annotations>r0-14 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="15" type="placeholder" x="-5948.202369656247" y="-9475.408585472438" r="10.594265561452085" s="3.2442007890462534">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="18" type="button" x="40.74998418033904" y="-10656.32491104543" r="0" s="4.424587981253736" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="19" type="label" x="40.30862923777383" y="-10470.902721544266" r="0" s="7.627749185500771" class="strong">
+      <textfield autoSize="true">
+        <x>-138.35</x>
+        <y>-15.85</y>
+        <text><![CDATA[Openframeworks & opencv]]></text>
+        <w>276.75</w>
+        <h>31.7</h>
+        <annotations>r0-23 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="20" type="label" x="40.713953550144886" y="-11027.88255493747" r="0" s="12.624682812389354" class="head">
+      <textfield>
+        <x>-267.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[OPENTSPS]]></text>
+        <w>535.1</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="22" type="button" x="6276.576753589199" y="-8350.016358031162" r="-9.277323644396894" s="5.1185638647059655" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="23" type="label" x="6205.397085091042" y="-8061.897976999309" r="-9.277323644396892" s="4.502105044993652" class="strong">
+      <textfield autoSize="true">
+        <x>-129.4</x>
+        <y>-15.85</y>
+        <text><![CDATA[Telecamere ad Infrarossi]]></text>
+        <w>258.85</w>
+        <h>31.7</h>
+        <annotations>r0-24 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="24" type="label" x="6142.877629234067" y="-8445.73675970788" r="-9.27732364439689" s="14.604805130027056" class="head">
+      <textfield autoSize="true">
+        <x>-87.65</x>
+        <y>-18.3</y>
+        <text><![CDATA[SONOS]]></text>
+        <w>175.3</w>
+        <h>36.65</h>
+        <annotations>r0-5 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="25" type="placeholder" x="6082.191564842798" y="-9538.915655726076" r="-9.277323644396894" s="3.412375909803978">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="21" type="placeholder" x="-172.37091007626952" y="-11120.975163878387" r="0" s="2.9497253208358245">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="0_20529895" type="button" x="10456.573871704879" y="-2827.894097336631" r="0" s="7.071843379527078" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="1_20529895" type="label" x="10384.570004297571" y="-1980.4641150023044" r="0" s="6.2201395934331565" class="strong">
+      <textfield autoSize="true">
+        <x>-270.4</x>
+        <y>-15.85</y>
+        <text><![CDATA[plugin per openframeworks per utlizzare opencv e kinect]]></text>
+        <w>540.85</w>
+        <h>31.7</h>
+        <annotations>r0-55 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_20529895" type="label" x="10311.408932583941" y="-2823.697703359687" r="0" s="10.294949074249438" class="head">
+      <textfield autoSize="true">
+        <x>-87.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[ofxKinect]]></text>
+        <w>175.2</w>
+        <h>36.65</h>
+        <annotations>r0-9 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_20529895" type="placeholder" x="10456.330360478123" y="-4492.295924811115" r="0" s="4.714562253018052">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="4_20529895" type="button" x="8910.620911384001" y="5939.630587955893" r="10.59426583591516" s="8.89048061730424" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="5_20529895" type="label" x="8571.153425823702" y="6759.3879112587865" r="10.594265835915161" s="7.819747627957546" class="strong">
+      <textfield>
+        <x>-276</x>
+        <y>-57.4</y>
+        <text><![CDATA[Open Natural Interactions
+Libreria per convertire il segnale kinect in coordinate di MANI (HANDS) e Scheletro (SKELETONS)
+Plugin per openFrameworks: ofxOpenNI]]></text>
+        <w>552</w>
+        <h>114.8</h>
+        <annotations>r0-26 { align: center; }
+r26-122 { align: center; }
+r122-158 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_20529895" type="label" x="8729.629353276441" y="5911.144737864685" r="10.59426583591516" s="12.94245931205417" class="head">
+      <textfield autoSize="true">
+        <x>-87.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[OpenNI]]></text>
+        <w>175.25</w>
+        <h>36.65</h>
+        <annotations>r0-6 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="7_20529895" type="placeholder" x="9295.019350020628" y="3882.813083411091" r="10.59426583591516" s="5.926987078202828">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="9.521021236261115" fadescale="0.23106764972030835">
+      <object id="background184780650" type="image" x="-332.74767678017923" y="-697.4725746236659" r="0" s="14.525355277028355">
+        <source w="3000" h="2250">184780650.jpg<url>184780650.jpg</url>
+        </source>
+        <sourceUrl>lightbulb.jpg</sourceUrl>
+      <resource><id>
+          184780650
+          </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/0/c/fe87ea529e9189f25ac7d436bde9ac8a4d75e.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="0_15277798"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+    <s>
+      <eagle o="12"/>
+    </s>
+    <s>
+      <eagle o="18"/>
+    </s>
+    <s>
+      <eagle o="22"/>
+    </s>
+    <s>
+      <eagle o="0_20529895"/>
+    </s>
+    <s>
+      <eagle o="4_20529895"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('GentiumBasic-I.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('GentiumBasic.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('OpenSans-Light.swf');
+	fontFamily: head;
+}
+
+background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	fontFamily: head;
+	color: #000;
+}
+
+text.subtitle
+{
+	fontFamily: strong;
+	color: #194a99;
+}
+
+text.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+frame.circle
+{
+	borderThickness: 0;
+	borderColor: #fff;
+	gradStartColor: #194a99;
+	gradEndColor: #194a99;
+}
+
+frame.bracket
+{
+	borderThickness: 0;
+	borderColor: #fff;
+	gradStartColor: #318bff;
+	gradEndColor: #318bff;
+}
+
+frame.rectangle
+{
+	borderThickness: 0;
+	borderColor: #97f1ff;
+	gradStartColor: #318bff;
+	gradEndColor: #318bff;
+}
+
+arrow
+{
+	borderThickness: 0;
+	borderColor: #7f7f7f;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+line
+{
+	color: #333;
+}
+
+line-arrow.style1
+{
+	gradStartColor: #efefef;
+	gradEndColor: #efefef;
+	color: #efefef;
+}
+
+line-arrow.style2
+{
+	gradStartColor: #7a8082;
+	gradEndColor: #7a8082;
+	color: #7a8082;
+}
+
+line-arrow.style3
+{
+	gradStartColor: #333;
+	gradEndColor: #333;
+	color: #333;
+}
+
+line-arrow.style4
+{
+	gradStartColor: #318bff;
+	gradEndColor: #318bff;
+	color: #318bff;
+}
+
+line-arrow.style5
+{
+	gradStartColor: #194a99;
+	gradEndColor: #194a99;
+	color: #194a99;
+}
+
+circle
+{
+	radius: 0;
+	lockTintAlpha: 0.6;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+shape
+{
+	radius: 0;
+	lockTintAlpha: 0.6;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+shape.style1
+{
+	borderThickness: 0;
+	borderColor: #efefef;
+	gradStartColor: #efefef;
+	gradEndColor: #efefef;
+}
+
+shape.style2
+{
+	borderThickness: 0;
+	borderColor: #7a8082;
+	gradStartColor: #7a8082;
+	gradEndColor: #7a8082;
+}
+
+shape.style3
+{
+	borderThickness: 0;
+	borderColor: #318bff;
+	gradStartColor: #318bff;
+	gradEndColor: #318bff;
+}
+
+shape.style4
+{
+	borderThickness: 0;
+	borderColor: #194a99;
+	gradStartColor: #194a99;
+	gradEndColor: #194a99;
+}
+
+shape.style5
+{
+	borderThickness: 0;
+	borderColor: #333;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+free-line
+{
+	color: #333;
+}
+
+free-marker
+{
+	color: #00e1ff;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	thickness: 100;
+	borderAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+}
+
+ZPoly
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	thickness: 100;
+	borderAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #640f1e;
+}
+
+.line5
+{
+	gradStartColor: #46353c;
+	gradEndColor: #46353c;
+	color: #46353c;
+}
+
+.poly5
+{
+	borderThickness: 8;
+	borderColor: #46353c;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #194a99;
+}
+
+.line1
+{
+	gradStartColor: #b33e71;
+	gradEndColor: #b33e71;
+	color: #b33e71;
+}
+
+.poly1
+{
+	borderColor: #b33e71;
+	gradEndColor: #fff;
+	borderAlpha: 1;
+	borderThickness: 8;
+	gradStartColor: #fff;
+	color: #fff;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+ZFrame.circle
+{
+	borderThickness: 0;
+	borderColor: #b33e71;
+	gradStartColor: #b33e71;
+	gradEndColor: #b33e71;
+	thickness: 6;
+}
+
+.line4
+{
+	gradStartColor: #fc0;
+	gradEndColor: #fc0;
+	color: #fc0;
+}
+
+.poly4
+{
+	borderThickness: 0;
+	borderColor: #6bb8d6;
+	gradStartColor: #6bb8d6;
+	gradEndColor: #6bb8d6;
+}
+
+ZFrame.bracket
+{
+	borderThickness: 0;
+	borderColor: #fff;
+	gradStartColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	thickness: 6;
+}
+
+.line2
+{
+	gradStartColor: #bd8ab7;
+	gradEndColor: #bd8ab7;
+	color: #bd8ab7;
+}
+
+.poly2
+{
+	gradStartColor: #b33e71;
+	gradEndColor: #b33e71;
+	color: #fff;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #fc0;
+	gradStartAlpha: 0.5;
+	gradEndColor: #fc0;
+	borderThickness: 0;
+	gradEndAlpha: 0.2;
+	gradStartColor: #fc0;
+	radius: 3;
+}
+
+ZArrow
+{
+	borderThickness: -1;
+	lockTintAlpha: 0;
+	borderColor: #fff;
+	gradStartColor: #000;
+	gradEndColor: #000;
+}
+
+.line3
+{
+	gradEndAlpha: 1;
+	gradStartColor: #6bb8d6;
+	gradStartAlpha: 1;
+	gradEndColor: #6bb8d6;
+	color: #6bb8d6;
+}
+
+.poly3
+{
+	borderThickness: 8;
+	borderColor: #6bb8d6;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+	color: #fff;
+}
+
+ZLine
+{
+	lockTintAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	color: #000;
+	alpha: 1;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZMarker
+{
+	color: #fc0;
+	alpha: 0.3;
+}
+
+Grid
+{
+	color: #c6c6c6;
+}
+
+point
+{
+	radius: 8;
+	fillColor: #40abe6;
+	alpha: .5;
+}
+
+]]></style>
+  <hash>-56d774df</hash>
+<sync><oid>nsljzyepvxyi</oid><hash>-56d774df</hash></sync><config>Vw+WBPmoTGb2Sq6irZdUmyetc590kgsS15vcBpeyfAQ6Hpy5VV4eK3EaLHBnZj8/itVsqjILmLsJpAEDCb1DB69RQoRtcFp8q9BCcqy7HltRvDdvJpBOtnPWmXP1NCMtmEzUe+72JtksRvo4s3YzUZQ10ltqB4h2QF5k8SymIjIjxj2luLVqh9XctcDzLV7u34lDkn0bgOMfoGI17+YeLKs68iQ94vRfJw5ZrR/SH3xwBwW03jMgG3dkb3s4uxpWJF2VEDLPyTDkdjVtlVG2KoKhEfC2gl3UJ3Ws1cLW7X8bDmche8JzMsLhc7Tss4uZ1jpxA/fHCpFsKrhtjJk2eQ==</config></zuiprezi>
