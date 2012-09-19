@@ -1,0 +1,34 @@
+OSC ovvero OPEN SOUND CONTROL
+
+OSC è un un protocollo per la comunicazione tra computer, synth musicali e altri device multimediali come pad, tablet e telefoni.
+
+E' stato studiato dal Center for New Music and Audio Technology (CNMAT) di Berkeley.
+
+Questo sistema, basato sulla connettività e sul concetto di networking applicato a strumenti musicali, computer, controller e multimedia device offre una banda per lo scambio di dati molto ampia, bassa latenza e una risoluzione dei dati a 32bit. 
+
+questo protocollo si presta su differenti tipologie di reti, dalla comune ethernet, all’usb, dal bluetooth al wireless alla firewire e anche sulle vecchie RS232 seriali. 
+
+il formato di questo protocollo ha delle caratteristiche molto interessanti:
+
+- composizione del messaggio aperta, dinamica e formattata con lo stile delle URL (path)
+- argomenti del messaggio ad alta risoluzione 
+- messaggi contemporanei
+
+questo protocollo ha riscosso un grande successo è utilizzato dai maggiori software in commercio come mezzo per lo scambio dei dati real-time, 
+utilizzato in software audio, video, controllo lucietc etc
+
+
+
+
+
+
+-syphon
+
+
+
+
+
+SYPHON è un protocollo per il trasferimento di segnali video fra programmi all'interno dello stesso computer 
+
+
+
