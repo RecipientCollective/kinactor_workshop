@@ -1,0 +1,628 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-24974.224113439137" y="-16787.2296178871" width="49948.448226878274" height="33574.4592357742"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>es</language>
+      </languages>
+    </settings>
+    <object id="19_14586512" type="button" x="0" y="0" r="0" s="53.66761386792551">
+      <type>invisible</type>
+      <size>
+        <w>900</w>
+        <h>594.85</h>
+      </size>
+    </object>
+    <object id="0_14708419" type="image" x="-17874.856027479498" y="5209.269498140006" r="-16.32014593982998" s="2.6339651332657796">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="1_14708419" type="image" x="-18361.371516520296" y="3611.7435010324534" r="-10.058584688720046" s="3.6065340479356585">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="2_14708419" type="image" x="-18588.445446761907" y="1501.8412807272728" r="3.79838378163012" s="4.602459300552736">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="3_14708419" type="image" x="-18361.03782962796" y="-1009.8199579627635" r="19.363300330528865" s="4.602459300552738">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="4_14708419" type="image" x="-16863.367635055005" y="-3300.3302087503403" r="47.99562649250573" s="5.25995348634599">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="5_14708419" type="image" x="-13830.153783627818" y="-4753.870311810497" r="74.0909751402784" s="6.248009151707356">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="6_14708419" type="image" x="-3922.9899498683967" y="-3067.5836013388453" r="139.1060987784695" s="6.248009151707355">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="7_14708419" type="image" x="-2324.546313806891" y="-588.289991206395" r="159.40774663584315" s="6.985438223044106">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="34_14708419" type="image" x="-1367.3654631117436" y="2656.815036860644" r="171.20366652911815" s="6.985438223044118">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="35_14708419" type="image" x="-836.0243006418132" y="5560.474952334407" r="171.20366652911815" s="6.985438223044118">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="36_14708419" type="image" x="4378.305714474819" y="12798.811021108726" r="115.94319133913638" s="6.985438223044114">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="37_14708419" type="image" x="8061.624594995779" y="12800.187708333406" r="87.43711640428396" s="7.836043762332569">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="45_14708419" type="image" x="2543.77860207836" y="4562.250613880677" r="0" s="3.787259270361236">
+      <source w="600" h="525">183106826.png<url>183106826.png</url>
+      </source>
+      <sourceUrl>flo s 1.png</sourceUrl>
+    <resource><id>
+        183106826
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/2/9c0a32e3f5d034daf84389ef44f79f413dd8d.png</url></resource></object>
+    <object id="47_14708419" type="image" x="6751.737158010433" y="8205.610947962936" r="0" s="10.354140064031363">
+      <source w="600" h="525">183106834.png<url>183106834.png</url>
+      </source>
+      <sourceUrl>grass s3.png</sourceUrl>
+    <resource><id>
+        183106834
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/3/c/7163b9dd9415bfa90675504510748fdfa9469.png</url></resource></object>
+    <object id="48_14708419" type="image" x="14115.956606922366" y="-1616.2958848020278" r="0" s="7.503874504534987">
+      <source w="600" h="525">183106838.png<url>183106838.png</url>
+      </source>
+      <sourceUrl>grass s2.png</sourceUrl>
+    <resource><id>
+        183106838
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/8/e3e56dbf8b9b661b8b19ed0e05a455c4fd562.png</url></resource></object>
+    <object id="46_14708419" type="image" x="-11493.17763308103" y="-1312.7242344900499" r="0" s="3.1925934772970512">
+      <source w="600" h="525">183106831.png<url>183106831.png</url>
+      </source>
+      <sourceUrl>flo s2.png</sourceUrl>
+    <resource><id>
+        183106831
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/6/d/778002b074cffeef2fc14c8eff365c5729b7e.png</url></resource></object>
+    <object id="44_14708419" type="image" x="-14563.43072955865" y="244.17538347435024" r="0" s="5.7786268804339915">
+      <source w="600" h="525">183106814.png<url>183106814.png</url>
+      </source>
+      <sourceUrl>grass s.png</sourceUrl>
+    <resource><id>
+        183106814
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/0/e/123ec79ff651b46ae0da9e6ddae0434884fac.png</url></resource></object>
+    <object id="0_15975669" type="image" x="15830.545190837709" y="7210.295403497661" r="41.34565937751518" s="8.693310025190716">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="1_15975669" type="image" x="18054.818222015136" y="3190.100885062948" r="28.421541972607976" s="10.496261873745288">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="2_15975669" type="image" x="19334.585633180865" y="-2115.1482651322126" r="11.822495865546898" s="11.756440136616394">
+      <source w="600" h="525">183078284.png<url>183078284.png</url>
+      </source>
+      <sourceUrl>sole 2.png</sourceUrl>
+    <resource><id>
+        183078284
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/b/8447a5f80eb2260db9c52fc0efabd3e4146d2.png</url></resource></object>
+    <object id="1_16894455" type="label" x="-15989.301640484875" y="-13943.695610352896" r="0" s="89.37554858300417" class="head">
+      <textfield autoSize="true">
+        <x>-84</x>
+        <y>-16.9</y>
+        <text><![CDATA[Motion Capture]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="8" type="button" x="-17072.70296916379" y="8496.903150614558" r="6.814941092699034" s="5.965499591013853" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="9" type="label" x="-17004.52845311777" y="7249.080397594742" r="6.814941092699035" s="5.2470393091703365" class="strong">
+      <textfield>
+        <x>-288.45</x>
+        <y>-50</y>
+        <text><![CDATA[Il motion capture è un processo di registrazione e analisi del un movimento di un oggetto o di una persona in scena, le tecniche con cui vengono catturati questi dati sono molteplici.]]></text>
+        <w>576.95</w>
+        <h>100</h>
+        <annotations>r0-183 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="10" type="label" x="-16950.243300634367" y="6801.013295463555" r="6.814941092699034" s="8.68437141435258" class="head">
+      <textfield>
+        <x>-104</x>
+        <y>-16.9</y>
+        <text><![CDATA[MOTION CAPTURE]]></text>
+        <w>208</w>
+        <h>33.85</h>
+        <annotations>r0-14 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="5" type="button" x="-8499.330843075455" y="-5546.5529390552665" r="-3.894609827792273" s="14.722094888110195" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>285.51650336316936</h>
+      </size>
+    </object>
+    <object id="19_28199054" type="image" x="-8534.199999999999" y="-5006.599999999999" r="-3.894609827792273" s="4.677600418742165">
+      <source w="640" h="480">237583312.gif<url>237583312.gif</url>
+      </source>
+      <sourceUrl>figure1ro2.gif</sourceUrl>
+    <resource><id>
+        237583312
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/c/b/2a7304ef452d6c4597ba19c2645e1cf01debe.gif</url></resource></object>
+    <object id="6" type="label" x="-8627.111014279077" y="-6633.218547050285" r="-3.8946098277922707" s="6.115824803112842" class="strong">
+      <textfield>
+        <x>-375.45</x>
+        <y>-74</y>
+        <text><![CDATA[L'oggetto o il performer da catturare/seguire indossa dei marcatori nei punti piu importanti (es. articolazioni) per poter essere tracciato dal sistema.
+Nel settore esistono sistemi basati su varie tecnologie,
+vi sono sistemi acustici (ultrasuoni), inerziali (accelerometri), a led, magnetici o una ne esistono anche come combinazione di essi]]></text>
+        <w>750.9</w>
+        <h>148</h>
+        <annotations>r0-153 { align: center; }
+r153-210 { align: center; }
+r210-342 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="7" type="label" x="-8668.170338545619" y="-7234.149803094502" r="-3.894609827792279" s="8.79983722488075" class="head">
+      <textfield autoSize="true">
+        <x>-173</x>
+        <y>-16.9</y>
+        <text><![CDATA[POSSIBILI SOLUZIONI TECNICHE]]></text>
+        <w>346</w>
+        <h>33.85</h>
+        <annotations>r0-28 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="12" type="placeholder" x="-6986.509007958512" y="-4688.035084163164" r="-3.8946098277922707" s="3.3796409077517966">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>roundrect</type>
+    </object>
+    <object id="11" type="placeholder" x="-16905.95220123355" y="7102.83170662402" r="6.814941092699034" s="2.9827497955069266">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="0" type="button" x="456.7710214619033" y="9445.13674876284" r="-16.320146983592004" s="12.770448459325957" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>313.47586397808726</h>
+      </size>
+    </object>
+    <object id="20_28199054" type="image" x="-814.6500000000001" y="9384.599999999999" r="-16.320146983592004" s="1.6164879872808686">
+      <source w="900" h="362">237585762.png<url>237585762.png</url>
+      </source>
+      <sourceUrl>kinectX360.png</sourceUrl>
+    <resource><id>
+        237585762
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/0/9/c697c88662602051c4dca9eaae3293a169fb2.png</url></resource></object>
+    <object id="21_28199054" type="image" x="1085.5500000000002" y="9260.999999999998" r="-16.320146983591997" s="1.5643432134976147">
+      <source w="1302" h="575">237587384.jpg<url>237587384.jpg</url>
+      </source>
+      <sourceUrl>appscreen1.jpg</sourceUrl>
+    <resource><id>
+        237587384
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/2/883f0c9cd9a0a535959f96d5907fef0c849fe.jpg</url></resource></object>
+    <object id="1" type="label" x="114.2192019967024" y="8343.565832455331" r="-16.320146983592" s="5.305075536328475" class="strong">
+      <textfield>
+        <x>-304</x>
+        <y>-26</y>
+        <text><![CDATA[Negli ultimi 2 anni hanno preso piede i marker impercettibili, la microsoft kinect ne è un'esempio.]]></text>
+        <w>608</w>
+        <h>52</h>
+        <annotations>r0-99 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="2" type="label" x="19.068502819783248" y="8019.121412888179" r="-16.320146983592007" s="7.63327967825801" class="head">
+      <textfield autoSize="true">
+        <x>-201</x>
+        <y>-16.9</y>
+        <text><![CDATA[KINECT: Homebrew Motion Capture]]></text>
+        <w>402</w>
+        <h>33.85</h>
+        <annotations>r0-31 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_28199054" type="placeholder" x="1898.5455562174038" y="9890.038134407276" r="-16.320146983592004" s="2.931616074444015">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>roundrect</type>
+    </object>
+    <object id="3_28199054" type="label" x="861.7582797784817" y="10589.76435296559" r="-16.320145939829978" s="5.305075536328475" class="strong">
+      <textfield>
+        <x>-343.15</x>
+        <y>-50</y>
+        <text><![CDATA[Emette un pattern di luce infrarossa (non visibile all'occhio umano) che viene ripreso e analizzato dalla telecamera per calcolarne la disposizione nello spaizio attraverso la distorsione prospettica del pattern emesso ]]></text>
+        <w>686.35</w>
+        <h>100</h>
+        <annotations>r0-219 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="7_28199054" type="button" x="12257.55126587458" y="11075.56266586254" r="17.861228322923765" s="6.0001555100875175" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="8_28199054" type="label" x="12725.26813958624" y="9710.726566381645" r="17.861228322923765" s="5.27752141161635" class="strong">
+      <textfield>
+        <x>-233.4</x>
+        <y>-50</y>
+        <text><![CDATA[Il risultato è un'immagine che viene colorata a seconda della profondita
+potendo cosi filtrare un oggetto ad una certa distanza specifica
+]]></text>
+        <w>466.85</w>
+        <h>100</h>
+        <annotations>r0-73 { align: center; }
+r73-138 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="22_28199054" type="image" x="12158.9" y="11381.1" r="17.861228322923765" s="3.7611095104691756">
+      <source w="909" h="556">237588972.png<url>237588972.png</url>
+      </source>
+      <sourceUrl>kylepointclouddepth.png</sourceUrl>
+    <resource><id>
+        237588972
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/6/9/744c18f002d6944273c3494f9ef54fb6b35a7.png</url></resource></object>
+    <object id="9_28199054" type="labelwithplaceholder" x="12151.095836502886" y="11032.150794264531" r="17.861228322923765" s="8.734822322671269" class="head">
+      <placeholder text="Click to add text" x="-94.2" y="-16.9" align="center" width="188.4"/>
+    </object>
+    <object id="10_28199054" type="placeholder" x="12690.4860339375" y="9731.389494293704" r="17.86122832292377" s="4.000103673391679">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="13_28199054" type="button" x="18589.396581503748" y="-8953.440966252188" r="1.2614104612783075" s="10.167717488711896" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="14_28199054" type="label" x="18648.142477976595" y="-11644.506413025798" r="1.2614104612783075" s="8.943159333742063" class="strong">
+      <textfield>
+        <x>-285.9</x>
+        <y>-26</y>
+        <text><![CDATA[Attraverso questa tecnica si riesce ad avere uno strumento di motion capture realtime a basso costo.]]></text>
+        <w>571.8</w>
+        <h>52</h>
+        <annotations>r0-100 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="15_28199054" type="labelwithplaceholder" x="18395.501756222642" y="-8972.403034838257" r="1.2614104612783075" s="14.801817309851744" class="head">
+      <placeholder text="Click to add text" x="-94.2" y="-16.9" align="center" width="188.4"/>
+    </object>
+    <object id="16_28199054" type="placeholder" x="18641.726790644283" y="-11345.903589405349" r="1.2614104612783075" s="6.7784783258079315">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="17_28199054" type="label" x="18715.701249702022" y="-11081.398925179808" r="1.2614104194809257" s="7.551947607067216" class="strong">
+      <textfield>
+        <x>-324.15</x>
+        <y>-38</y>
+        <text><![CDATA[È stato di fatto adottato da tutte le software house che producono applicazioni di motion capturing e gia rende molto piu facile la vita a molti animatori 3d
+]]></text>
+        <w>648.3</w>
+        <h>76</h>
+        <annotations>r0-158 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="18_28199054" type="image" x="-17108.450000000004" y="8795.3" r="6.8149410926990335" s="11.330339445783595">
+      <source w="300" h="214">237581598.PNG<url>237581598.PNG</url>
+      </source>
+      <sourceUrl>300px-Activemarker2.PNG</sourceUrl>
+    <resource><id>
+        237581598
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/7/caba06de99a1b8c1980ea4f38e2d00edce21f.PNG</url></resource></object>
+    <object id="23_28199054" type="youtube" x="18562.700000000004" y="-8413.650000000001" r="1.2614104612783081" s="18.104679789121334" onFocus="start" onLeave="pause">
+      <source>OyRTzOAfUbs</source>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="19_14586512"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="7_28199054"/>
+    </s>
+    <s>
+      <eagle o="13_28199054"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LoveYaLikeASister.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('JosefinSlab.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('YanoneKaffeesatz.swf');
+	fontFamily: strong;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #d2665d;
+	fontFamily: head;
+}
+
+.line5
+{
+	gradStartColor: #640f1e;
+	gradEndColor: #640f1e;
+	color: #640f1e;
+}
+
+.poly5
+{
+	borderColor: #640f1e;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+	borderThickness: 9;
+}
+
+ZLabel.strong
+{
+	color: #2c6578;
+	fontFamily: body;
+}
+
+.line1
+{
+	gradStartColor: #499c94;
+	gradEndColor: #499c94;
+	color: #499c94;
+}
+
+.poly1
+{
+	borderColor: #499c94;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+	borderThickness: 9;
+}
+
+ZLabel.body
+{
+	color: #6b3455;
+	fontFamily: strong;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #ddd;
+}
+
+ZFrame.circle
+{
+	borderColor: #fff;
+	gradStartColor: #327f78;
+	thickness: 7;
+	gradEndColor: #327f78;
+	borderThickness: 0;
+}
+
+.line4
+{
+	gradStartColor: #f1da7c;
+	gradEndColor: #f1da7c;
+	color: #f1da7c;
+}
+
+.poly4
+{
+	gradStartAlpha: 1;
+	borderColor: #e39f99;
+	gradStartColor: #e39f99;
+	gradEndColor: #e39f99;
+	gradEndAlpha: 1;
+	borderThickness: 0;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fff;
+	gradStartColor: #b6524a;
+	thickness: 13;
+	gradEndColor: #b6524a;
+	borderThickness: 0;
+}
+
+.line2
+{
+	gradStartColor: #8d5877;
+	gradEndColor: #8d5877;
+	color: #8d5877;
+}
+
+.poly2
+{
+	borderColor: #499c94;
+	gradStartColor: #499c94;
+	gradEndColor: #499c94;
+	borderThickness: 0;
+}
+
+ZFrame.roundrect
+{
+	gradStartAlpha: 0.6;
+	borderColor: #fff;
+	gradStartColor: #ffe57c;
+	gradEndColor: #ffe57c;
+	borderThickness: 0;
+	radius: 0;
+	gradEndAlpha: 0.9;
+}
+
+ZPoly
+{
+	gradStartAlpha: 1;
+	radius: 0;
+	gradEndAlpha: 1;
+	borderAlpha: 1;
+	thickness: 100;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	gradStartAlpha: 1;
+	radius: 0;
+	gradEndAlpha: 1;
+	borderAlpha: 1;
+	thickness: 100;
+	lockTintAlpha: 0;
+}
+
+ZArrow
+{
+	borderColor: #fff;
+	gradStartColor: #f00;
+	lockTintAlpha: 0;
+	gradEndColor: #f00;
+	borderThickness: 0;
+}
+
+.line3
+{
+	gradStartColor: #e39f99;
+	gradEndColor: #e39f99;
+	color: #e39f99;
+}
+
+.poly3
+{
+	borderColor: #e39f99;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+	borderThickness: 9;
+}
+
+ZLine
+{
+	lockTintAlpha: 0;
+	color: #94cbc6;
+}
+
+ZCurveLine
+{
+	color: #640f1e;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #b45f76;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+]]></style>
+  <hash>-37216223</hash>
+<sync><oid>fubx03epd0u-</oid><hash>-37216223</hash></sync><config>ONNu8RbODRkm1P3itfXVLbBJ4s+tVbr9FxHnRfG7ZksQJr59HPjSHSmLLD6iIPgrjWYlU7Qy7+vLfg3aZTDhH0HQh/9vCNWWCIaj7v3gKi660deGjMLCcBETVMDg54CmG3ang8YqvnqPDAfv9UvrPy85NWUEbslzCJ8MdRqeQHaoxm2sZTrE+3l+ue2NrenykIB/YvuxIG7Z4ryTJ/D9RmtEjHr3B5iI3aKAJ6cpv8eP2rVbagHp5mS9KpydnOiyIv4mA6zkuY2bPmR6nhJAiUzTAUA2oIJj4TFJEvNmOySXYsGQsf6y210ucjvrVg/XwOEwVy76y6iIWLt2OjcHIQ==</config></zuiprezi>
