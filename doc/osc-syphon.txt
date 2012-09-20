@@ -1,4 +1,4 @@
-OSC ovvero OPEN SOUND CONTROL
+OSC ovvero OPEN SOUND CONTROL  (http://opensoundcontrol.org/)
 
 OSC è un un protocollo per la comunicazione tra computer, synth musicali e altri device multimediali come pad, tablet e telefoni.
 
@@ -11,6 +11,8 @@ questo protocollo si presta su differenti tipologie di reti, dalla comune ethern
 il formato di questo protocollo ha delle caratteristiche molto interessanti:
 
 - composizione del messaggio aperta, dinamica e formattata con lo stile delle URL (path)
+	(esempio. )
+
 - argomenti del messaggio ad alta risoluzione 
 - messaggi contemporanei
 
@@ -21,14 +23,15 @@ utilizzato in software audio, video, controllo lucietc etc
 
 
 
+SYPHON    (http://syphon.v002.info/)
 
--syphon
+è un protocollo per il trasferimento di segnali video fra programmi all'interno dello stesso computer...
+
+è un protocollo molto giovane ma ha da subito preso una grande importanza all'interno della sfera dei programmi video realtime, permettendo di creare un ponte fra programmi che solitamente non avrebbero mai comunicato tra loro, ha liberato l'immaginazione degli artisti e creativi che lavorano con il video
 
 
 
 
-
-SYPHON è un protocollo per il trasferimento di segnali video fra programmi all'interno dello stesso computer 
 
 
 
