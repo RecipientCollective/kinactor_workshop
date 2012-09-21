@@ -40,6 +40,7 @@
  * documentazione
  * asset store
 - Introduzione all'interfaccia (3rd person shooter)
+ * http://docs.unity3d.com/Documentation/Manual/LearningtheInterface.html
  * Esplorazione interfaccia: inspector, project, hierachy, Scene, Game, Console
  * Movimento camera in editor
 
