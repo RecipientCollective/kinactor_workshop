@@ -58,7 +58,8 @@
 
 - approfondimento di unity3d e le sue funzionalità (luci, oggetti, texture, timeline, programmazione, etc).
  * Components e documentazione
- * Programmazione scripting: js (iTween) e C# (C# examples) e documentazione
+ * Programmazione scripting in C#: iTween e C# game examples
+ * Come usare la documentazione classi
 
 **11.30 - 18**
 
