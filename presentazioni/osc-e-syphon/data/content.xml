@@ -1,0 +1,818 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-9901.975593681842" y="-7525.167529342699" width="19803.951187363684" height="15050.335058685398"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>es</language>
+      </languages>
+    </settings>
+    <object id="0" type="button" x="0" y="0" r="0" s="23.851561107266875">
+      <type>invisible</type>
+      <size>
+        <w>799.3124194241512</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_15279819" type="label" x="8097.482572378412" y="6915.839608496728" r="0" s="4.515212506172092" class="body">
+      <textfield>
+        <x>-164.65</x>
+        <y>-17.45</y>
+        <text><![CDATA[photo (cc) Malte Sörensen @ flickr]]></text>
+        <annotations>r0-34 { color: #c5c3c3; }
+r0-34 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1" type="labelwithplaceholder" x="-278.4044412872756" y="5784.794508729865" r="0" s="25.16778437907257" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="2" type="labelwithplaceholder" x="-278.40444128727546" y="3547.386283600921" r="0" s="29.13908238644515" class="head">
+      <placeholder text="Click to add text" x="-99.2" y="-18.3" align="center" width="198.4"/>
+    </object>
+    <object id="8" type="button" x="-4975.247988829658" y="1163.9125784245293" r="-7.758272323987925" s="3.6861157910025275" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="9" type="label" x="-4975.167487776314" y="1509.6421840582154" r="-7.758272323987926" s="4.539045191747192" class="strong">
+      <textfield>
+        <x>-200.55</x>
+        <y>-33</y>
+        <text><![CDATA[OPEN SOUND CONTROL  (http://opensoundcontrol.org/)
+]]></text>
+        <w>401.15</w>
+        <h>66</h>
+        <annotations>r0-51 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="10" type="label" x="-5054.044590296555" y="1176.855440931223" r="-7.758272323987919" s="10.517599122971966" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[OSC]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-3 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="11" type="placeholder" x="-5092.487792437618" y="304.3208845586499" r="-7.7582723239879225" s="2.4574105273350186">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="3" type="button" x="-4446.580983267854" y="-2553.321853017246" r="6.86015002866609" s="2.6780318165910764" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4" type="labelwithplaceholder" x="-4546.106949577096" y="-1983.6769054552167" r="6.860150028666092" s="2.355500658155956" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="5" type="label" x="-4458.465776052562" y="-2608.0944776721235" r="6.860150028666092" s="3.898587637113164" class="head">
+      <textfield>
+        <x>-236.45</x>
+        <y>-67.3</y>
+        <text><![CDATA[OSC è un un protocollo per la comunicazione tra computer, synth musicali e altri device multimediali come pad, tablet e telefoni.
+]]></text>
+        <w>472.9</w>
+        <h>134.6</h>
+        <annotations>r0-130 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="6" type="placeholder" x="-4371.386558240856" y="-3179.11165398036" r="6.860150028666093" s="1.7853545443940517">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="7" type="button" x="-2202.5443108919517" y="-4941.864381474187" r="-7.769151429387417" s="1.5999993240162191" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="12" type="labelwithplaceholder" x="-2194.544773765756" y="-4747.105585840786" r="-7.769151429387417" s="1.4073019735690349" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="13" type="label" x="-2202.5653880860636" y="-4941.93353778215" r="-7.769151429387395" s="3.5651969490700144" class="head">
+      <textfield autoSize="true">
+        <x>-134.65</x>
+        <y>-67.3</y>
+        <text><![CDATA[E' stato studiato dal Center for New Music and Audio Technology (CNMAT) di Berkeley.]]></text>
+        <w>269.3</w>
+        <h>134.6</h>
+        <annotations>r0-84 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="14" type="placeholder" x="-2253.5043890058596" y="-5314.969993081903" r="-7.769151429387415" s="1.0666662160108131">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="15" type="button" x="860.6856876459359" y="-4942.075003109042" r="0" s="3.2916488307492524" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="16" type="labelwithplaceholder" x="822.8280062450241" y="-4542.8545015947475" r="0" s="2.8952161580804963" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="17" type="label" x="822.9211840384405" y="-4892.961906183606" r="0" s="4.664035284849717" class="head">
+      <textfield autoSize="true">
+        <x>-224.8</x>
+        <y>-132.6</y>
+        <text><![CDATA[Questo sistema, basato sulla connettività e sul concetto di networking applicato a strumenti musicali, computer, controller e multimedia device offre una banda per lo scambio di dati molto ampia, bassa latenza e una risoluzione dei dati a 32bit. ]]></text>
+        <w>449.6</w>
+        <h>265.2</h>
+        <annotations>r0-246 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="18" type="placeholder" x="860.5723433024871" y="-5716.784797328168" r="0" s="2.1944325538328355">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="19" type="button" x="3002.337183521847" y="-2553.143423427846" r="-11.95768882851558" s="2.158792693165449" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="20" type="labelwithplaceholder" x="3032.294620962864" y="-2291.85607835122" r="-11.95768882851558" s="1.898796563233643" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="21" type="label" x="2978.0638720039615" y="-2548.0760152787184" r="-11.957688828515565" s="3.3622591048313524" class="head">
+      <textfield autoSize="true">
+        <x>-208.9</x>
+        <y>-83.6</y>
+        <text><![CDATA[questo protocollo si presta su differenti tipologie di reti, dalla comune ethernet, all’usb, dal bluetooth al wireless alla firewire e anche sulle vecchie RS232 seriali. ]]></text>
+        <w>417.8</w>
+        <h>167.25</h>
+        <annotations>r0-170 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="22" type="placeholder" x="2896.9946560939034" y="-3050.1881524342216" r="-11.95768882851558" s="1.4391951287769669">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="23" type="button" x="3821.8649894784203" y="728.8309990134107" r="6.860150788524284" s="3.0147383104642302" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="24" type="labelwithplaceholder" x="3743.7664415417885" y="1087.7077430721533" r="6.860150788524285" s="2.651655604116668" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="25" type="label" x="3821.902433956834" y="728.98768987536" r="6.8601507885242885" s="6.144254899023376" class="head">
+      <textfield autoSize="true">
+        <x>-178.75</x>
+        <y>-67.3</y>
+        <text><![CDATA[il formato di questo protocollo ha delle caratteristiche molto interessanti:]]></text>
+        <w>357.55</w>
+        <h>134.6</h>
+        <annotations>r0-76 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="26" type="placeholder" x="3906.5135502153967" y="24.361219167262732" r="6.860150788524285" s="2.0098255403094876">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="27" type="button" x="4992.461491558202" y="3725.7703051835897" r="6.860149885556893" s="2.069001010432369" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="28" type="labelwithplaceholder" x="4938.862821872198" y="3972.06576175688" r="6.8601498855568925" s="1.8198190221662143" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="29" type="label" x="4964.559665664886" y="3758.6944609050997" r="6.860149885556881" s="2.364225692409954" class="head">
+      <textfield>
+        <x>-276</x>
+        <y>-116.25</y>
+        <text><![CDATA[- composizione del messaggio aperta, dinamica e formattata con lo stile delle URL 
+(esempio. /tastiera/nota/2/on )
+
+- argomenti del messaggio ad alta risoluzione 
+
+- messaggi contemporanei
+]]></text>
+        <w>552</w>
+        <h>232.55</h>
+        <annotations>r0-83 { align: center; }
+r83-115 { align: center; }
+r116-163 { align: center; }
+r164-189 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="30" type="placeholder" x="5050.555401108471" y="3242.2959405856172" r="6.8601498855568925" s="1.3793340069549134">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="31" type="button" x="4549.909691307095" y="5732.914894920743" r="6.860150357293853" s="1.4199140910171342" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="32" type="labelwithplaceholder" x="4513.125992873624" y="5901.942549789904" r="6.860150357293853" s="1.2489054667667094" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="33" type="label" x="4540.06675816384" y="5814.73280701184" r="6.860150357293853" s="2.0670626415666113" class="head">
+      <textfield>
+        <x>-240.7</x>
+        <y>-99.95</y>
+        <text><![CDATA[questo protocollo ha riscosso un grande successo è utilizzato dai maggiori software in commercio come mezzo per lo scambio dei dati real-time, 
+utilizzato in software audio, video, controllo lucietc etc
+]]></text>
+        <w>481.45</w>
+        <h>199.9</h>
+        <annotations>r0-144 { align: center; }
+r144-203 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="34" type="placeholder" x="4589.778384463318" y="5401.116090184726" r="6.860150357293852" s="0.9466093940114232">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="36" type="button" x="2399.708216613062" y="6390.840612529581" r="6.860150252867512" s="0.9745720940100134" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="37" type="labelwithplaceholder" x="2374.461361233363" y="6506.854416927264" r="6.860150252867512" s="0.8571986317112317" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="38" type="label" x="2394.6681923972137" y="6338.292373009323" r="6.860150252867514" s="1.9862484721436455" class="head">
+      <textfield>
+        <x>-182.45</x>
+        <y>-50.95</y>
+        <text><![CDATA[
+SYPHON    (http://syphon.v002.info/)
+]]></text>
+        <w>364.95</w>
+        <h>101.95</h>
+        <annotations>r1-38 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="39" type="placeholder" x="2427.0724884596175" y="6163.107217926263" r="6.860150252867511" s="0.649714729340009">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="40" type="button" x="909.6095652376491" y="6526.798847156833" r="6.860149935157261" s="0.668898756410145" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="41" type="labelwithplaceholder" x="892.2813554107561" y="6606.425064712849" r="6.860149935157261" s="0.5883393360760745" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="42" type="label" x="908.306191440692" y="6537.284442375075" r="6.86014993515726" s="1.3632640839034573" class="head">
+      <textfield autoSize="true">
+        <x>-177.7</x>
+        <y>-83.6</y>
+        <text><![CDATA[è un protocollo per il trasferimento di segnali video fra programmi all'interno dello stesso computer...]]></text>
+        <w>355.45</w>
+        <h>167.25</h>
+        <annotations>r0-104 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="43" type="placeholder" x="928.3910660378921" y="6370.493751329669" r="6.860149935157261" s="0.4459325042734302">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+    <object id="45" type="button" x="-3601.8898204066386" y="6356.980749159828" r="0" s="1.9709741699446817" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="46" type="labelwithplaceholder" x="-3624.5582507319377" y="6596.0260839010625" r="0" s="1.7335981319381006" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="47" type="label" x="-3596.4923829903905" y="6380.691889970549" r="0" s="2.3267815561351353" class="head">
+      <textfield>
+        <x>-297.35</x>
+        <y>-116.25</y>
+        <text><![CDATA[è un protocollo molto giovane ma ha da subito preso una grande importanza all'interno della sfera dei programmi video realtime, permettendo di creare un ponte fra programmi che solitamente non avrebbero mai comunicato tra loro, ha liberato l'immaginazione degli artisti e creativi che lavorano con il video
+]]></text>
+        <w>594.75</w>
+        <h>232.55</h>
+        <annotations>r0-307 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="48" type="placeholder" x="-3601.9576887561298" y="5893.0998578128965" r="0" s="1.3139827799631212">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+      <type>circle</type>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="3.724881325976837" fadescale="0.5906228433795961">
+      <object id="background184779303" type="image" x="-941.6861099549677" y="-251.47388625409243" r="0" s="5.252044652827894">
+        <source w="3246" h="2156">184779303.jpg<url>184779303.jpg</url>
+        </source>
+        <sourceUrl>soapbubble.jpg</sourceUrl>
+      <resource><id>
+          184779303
+          </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/1/2a813a42871f4a1551d7ae8bde5bef9cd2c9b.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="7"/>
+    </s>
+    <s>
+      <eagle o="15"/>
+    </s>
+    <s>
+      <eagle o="19"/>
+    </s>
+    <s>
+      <eagle o="23"/>
+    </s>
+    <s>
+      <eagle o="27"/>
+    </s>
+    <s>
+      <eagle o="31"/>
+    </s>
+    <s>
+      <eagle o="36"/>
+    </s>
+    <s>
+      <eagle o="40"/>
+    </s>
+    <s>
+      <eagle o="45"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('OpenSans-Bold.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: strong;
+}
+
+background
+{
+	gradStart: #808080;
+	gradEnd: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	fontFamily: head;
+	color: #fff808;
+}
+
+text.subtitle
+{
+	fontFamily: strong;
+	color: #fff;
+}
+
+text.body
+{
+	fontFamily: body;
+	color: #fff;
+}
+
+frame.circle
+{
+	borderThickness: 0;
+	borderColor: #999;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+frame.bracket
+{
+	borderThickness: 0;
+	borderColor: #fff;
+	thickness: 7;
+	gradStartColor: #fff;
+	gradEndColor: #c5c3c3;
+}
+
+frame.rectangle
+{
+	borderThickness: 0;
+	borderColor: #fff;
+	gradStartColor: #000;
+	radius: 0;
+	gradEndColor: #000;
+}
+
+arrow
+{
+	borderThickness: -1;
+	borderColor: #fff;
+	gradStartColor: #fff808;
+	gradEndColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradStartColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradStartColor: #fff808;
+	gradEndColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradStartColor: #000;
+	gradEndColor: #000;
+}
+
+circle
+{
+	thickness: 100;
+	radius: 0;
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+}
+
+shape
+{
+	radius: 0;
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	gradStartAlpha: 0.7;
+	thickness: 100;
+	gradEndAlpha: 0.8;
+}
+
+shape.style1
+{
+	borderThickness: 0;
+	borderColor: #fff;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+shape.style2
+{
+	borderThickness: 0;
+	borderColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderThickness: 0;
+	borderColor: #fff808;
+	gradStartColor: #fff808;
+	gradEndColor: #fff808;
+}
+
+shape.style4
+{
+	borderThickness: 0;
+	borderColor: #333;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+shape.style5
+{
+	borderThickness: 0;
+	borderColor: #000;
+	gradStartColor: #000;
+	gradEndColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	radius: 0;
+	borderAlpha: 1;
+	lockTintAlpha: 0;
+	gradStartAlpha: 1;
+	thickness: 100;
+	gradEndAlpha: 1;
+}
+
+ZPoly
+{
+	radius: 0;
+	borderAlpha: 1;
+	lockTintAlpha: 0;
+	gradStartAlpha: 1;
+	thickness: 100;
+	gradEndAlpha: 1;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #004f75;
+}
+
+.line5
+{
+	color: #333;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+.poly5
+{
+	borderThickness: 9;
+	borderColor: #333;
+	color: #fff;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #318bff;
+}
+
+.line1
+{
+	color: #3fc0ff;
+	gradStartColor: #3fc0ff;
+	gradEndColor: #3fc0ff;
+}
+
+.poly1
+{
+	borderThickness: 9;
+	borderColor: #3fc0ff;
+	color: #fff;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+ZFrame.circle
+{
+	thickness: 10;
+	borderThickness: 0;
+	borderColor: #004f75;
+	gradStartColor: #004f75;
+	gradEndColor: #004f75;
+}
+
+.line4
+{
+	color: #ffbe00;
+	gradStartColor: #ffbe00;
+	gradEndColor: #ffbe00;
+}
+
+.poly4
+{
+	borderThickness: 0;
+	borderColor: #004f75;
+	color: #fff;
+	gradStartColor: #004f75;
+	gradEndColor: #004f75;
+}
+
+ZFrame.bracket
+{
+	thickness: 10;
+	borderThickness: 0;
+	borderColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+	gradEndColor: #b2b2b2;
+}
+
+.line2
+{
+	borderColor: #fff;
+	color: #f00;
+	gradStartColor: #f00;
+	gradEndColor: #f00;
+}
+
+.poly2
+{
+	borderThickness: 0;
+	borderColor: #3fc0ff;
+	color: #fff;
+	gradStartColor: #3fc0ff;
+	gradEndColor: #3fc0ff;
+}
+
+ZFrame.roundrect
+{
+	borderThickness: 0;
+	borderColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+	gradEndColor: #3fc0ff;
+}
+
+ZArrow
+{
+	gradEndColor: #333;
+	borderThickness: 0;
+	borderColor: #fff;
+	gradStartColor: #333;
+	lockTintAlpha: 0;
+}
+
+.line3
+{
+	color: #004f75;
+	gradStartColor: #004f75;
+	gradEndColor: #004f75;
+}
+
+.poly3
+{
+	borderThickness: 9;
+	borderColor: #004f75;
+	color: #fff;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #00e1ff;
+}
+
+Grid
+{
+	color: #ccc;
+}
+
+ZPath
+{
+	alpha: 1;
+	thickness: 3;
+	textColor: #fff;
+	color: #40abe6;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+]]></style>
+  <hash>-46452ca0</hash>
+<sync><oid>6e5kcilkxdeh</oid><hash>-46452ca0</hash></sync><config>mXS/4IC8ef4AfJR3+VAL58rHeVN8EoWTGuawFUgE/c4O3aYJRrwrKJgZAesC30e1ZMHer5nfWFFxSZRT0VVQenkRzusBcyEAc5LtCYBto1F9MxGtYDtZrRiNnU5lCu5fvD+SER5NewNq0rIZoqOPey9O+9KinerwbSezAyzJRMLD3ceSeo0a/9oAJiIAIo3G3HlnCx/8DgrmPVKkPEdlWSNpKJIZlRvqnUGaJgv3RLcK631fubXxjd2FTdncSdz8P0/UAhEBu3TOoaiwgqIR5G/8PRX0dmfpxxMuCTp+rIC1B6OBbpTRYeZuJAvMV1LadgVkAKg9uRyKaILA9EhSTg==</config></zuiprezi>

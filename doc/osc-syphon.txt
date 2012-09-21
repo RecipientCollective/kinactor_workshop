@@ -11,7 +11,7 @@ questo protocollo si presta su differenti tipologie di reti, dalla comune ethern
 il formato di questo protocollo ha delle caratteristiche molto interessanti:
 
 - composizione del messaggio aperta, dinamica e formattata con lo stile delle URL (path)
-	(esempio. )
+	(esempio. /tastiera/nota/2/on )
 
 - argomenti del messaggio ad alta risoluzione 
 - messaggi contemporanei
